@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YO9ki82CU/Np9APvTZlFU8+hOZlWaWLkZL0zLrgjaJ8=",
+  "Hash": "3h69xyLBc5ku785Fno2xMZn61I4uz0A9mrb+cYNtqEA=",
   "Source": "AB460Proniya",
   "BasePath": "_content/AB460Proniya",
   "Mode": "Default",
@@ -3978,6 +3978,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-3-370x300.jpg"
     },
     {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\1342a20e-feda-4e29-abff-5f861ff2c350.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/1342a20e-feda-4e29-abff-5f861ff2c350.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1342a20e-feda-4e29-abff-5f861ff2c350.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\1-3-570x633.jpg",
       "SourceId": "AB460Proniya",
       "SourceType": "Discovered",
@@ -4199,6 +4216,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg"
     },
     {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\1b441d6f-2075-4580-97b9-076479c26a72.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/1b441d6f-2075-4580-97b9-076479c26a72.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\1b441d6f-2075-4580-97b9-076479c26a72.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\1d9f7d02-53c1-4e21-9ee5-fbf20b1099c3.jpg",
       "SourceId": "AB460Proniya",
       "SourceType": "Discovered",
@@ -4299,6 +4333,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\2-2-70x78.png"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\23145733-0857-43eb-a038-02dbe5f5daea.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/23145733-0857-43eb-a038-02dbe5f5daea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\23145733-0857-43eb-a038-02dbe5f5daea.jpg"
     },
     {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\2-3-70x78.png",
@@ -4420,6 +4471,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\32e0a54c-4a4f-4cd8-b88b-2ddc036c175c.jpg"
     },
     {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\37a8f141-d30c-4529-87b3-53713c6411ae.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/37a8f141-d30c-4529-87b3-53713c6411ae.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\37a8f141-d30c-4529-87b3-53713c6411ae.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\3b921de1-bfef-4da0-b484-0cf05879b7c2.jfif",
       "SourceId": "AB460Proniya",
       "SourceType": "Discovered",
@@ -4520,6 +4588,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\54af4faa-3727-46b1-88bc-2d99ef5bbf1f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\5b05a3cc-bb96-46fb-9150-d59c5bb9f9a6.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/5b05a3cc-bb96-46fb-9150-d59c5bb9f9a6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\5b05a3cc-bb96-46fb-9150-d59c5bb9f9a6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\5d6b7fa9-c7ac-496e-83ea-4e046306927d.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/5d6b7fa9-c7ac-496e-83ea-4e046306927d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\5d6b7fa9-c7ac-496e-83ea-4e046306927d.jpg"
     },
     {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\5dca802e-045f-4ee9-b338-978e7fe9d3e7.jpg",
@@ -4624,12 +4726,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\7e404e39-0a51-44be-ab01-b1421939478c.jpg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\8657428a-16b2-4a3d-af11-b7b63c1cf3f7.jpg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\80a6c14e-09f1-4e4d-8505-1d309bf23f85.jpg",
       "SourceId": "AB460Proniya",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
       "BasePath": "_content/AB460Proniya",
-      "RelativePath": "assets/images/website-images/8657428a-16b2-4a3d-af11-b7b63c1cf3f7.jpg",
+      "RelativePath": "assets/images/website-images/80a6c14e-09f1-4e4d-8505-1d309bf23f85.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4638,7 +4740,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\8657428a-16b2-4a3d-af11-b7b63c1cf3f7.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\80a6c14e-09f1-4e4d-8505-1d309bf23f85.jpg"
     },
     {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\8869f3e8-131e-4c5e-b37c-d773a2c39f1f.jfif",
@@ -4673,6 +4775,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\89e35310-dc72-4d1d-95af-b6cae523d267.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\937a8136-4a21-47b2-8c23-1aac766f7266.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/937a8136-4a21-47b2-8c23-1aac766f7266.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\937a8136-4a21-47b2-8c23-1aac766f7266.jpg"
     },
     {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\9598d42d-c81f-4131-92ce-e809c2c57a5b.webp",
@@ -4877,6 +4996,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\c2a411ae-0c72-4b68-9393-99ca83818248.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\c46a8e54-645b-4d00-b2c8-da470daefc13.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/c46a8e54-645b-4d00-b2c8-da470daefc13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\c46a8e54-645b-4d00-b2c8-da470daefc13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\c5a8d359-5e56-46b8-ba44-9caee2831645.jpg",
+      "SourceId": "AB460Proniya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\",
+      "BasePath": "_content/AB460Proniya",
+      "RelativePath": "assets/images/website-images/c5a8d359-5e56-46b8-ba44-9caee2831645.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\c5a8d359-5e56-46b8-ba44-9caee2831645.jpg"
     },
     {
       "Identity": "C:\\Users\\Asus\\Desktop\\20_Noy\\AB460Proniya\\wwwroot\\assets\\images\\website-images\\car.png",
